@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AppWarp\AppWarpHandler.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Menu.cs" Line="28" Column="37" />
+      <File FileName="Assets\AppWarp\AppWarpHandler.cs" Line="42" Column="18" />
+      <File FileName="Assets\AppWarp\AppWarpListener.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
