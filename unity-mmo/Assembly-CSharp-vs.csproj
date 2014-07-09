@@ -53,10 +53,10 @@
      <Compile Include="Assets\Scripts\RemoteCharacter.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>E:/unity/unity-mmo/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>D:/Suyash/Shephertz/GitHub/AppWarpS2UnityMMO/unity-mmo/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="AppWarpS2Unity_1.0.8">
- <HintPath>E:/unity/unity-mmo/Assets/AppWarp/AppWarpS2Unity_1.0.8.dll</HintPath>
+ <HintPath>D:/Suyash/Shephertz/GitHub/AppWarpS2UnityMMO/unity-mmo/Assets/AppWarp/AppWarpS2Unity_1.0.8.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
